@@ -1,9 +1,17 @@
 body {
-  font-family: Roboto;
+  font-family: Calibri;
 }
 
-h1{
+h1 {
   text-align: center;
+}
+
+h2 {
+  text-align: center
+}
+
+img {
+  float: right;
 }
 
 ul#menu li {

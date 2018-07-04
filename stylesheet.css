@@ -15,5 +15,28 @@ img {
 }
 
 ul#menu li {
+    width: 5px;
+    border: 5px solid #80C6FF;
+    padding: 5px;
+    margin: 5px;
     display: inline;
+}
+
+/* unvisited link */
+a:link {
+   color: #1766A6;
+}
+
+/* visited link */
+a:visited {
+   color: #5E35A6;
+}
+
+a:hover {
+    color: #80C6FF;
+}
+
+/* selected link */
+a:active {
+   color: #2196F3;
 }
